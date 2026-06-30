@@ -6,7 +6,7 @@ on:
 
 permissions:
   contents: read
-  packages: write   # autorise la publication d'images sur GHCR
+  packages: write  
 
 jobs:
 
